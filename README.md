@@ -1,2 +1,2 @@
 # WidgetReactTS
-Widget com React Type Script projeto do NLW
+Widget com React Typescript NLW
